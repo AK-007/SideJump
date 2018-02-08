@@ -6,7 +6,7 @@ An addictive 2D-arcade game made using Unity Game Engine. The scripts are writte
 ![final](https://user-images.githubusercontent.com/26346816/35991804-5c740de8-0d2e-11e8-9e05-cfaee27fa253.gif)
 Its runs way more smooth than this gif:)
 
-## Requirement :
+## Requirements :
 * Unity Game Engine (Download it from [Unity](https://store.unity.com/?_ga=2.51470575.774499487.1518114497-1115267865.1514717693/))
 * Visual Studio IDE (or any other editor) to see the scripts
 
